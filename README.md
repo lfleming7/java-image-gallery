@@ -1,1 +1,1 @@
-# M2EBS-Java-Image-Gallery
+# java-image-gallery
